@@ -1,0 +1,1 @@
+This project is an attempt to make a reusable library for using the capabilities if the kinect exposed by the Microsoft research kinect SDK. While the project has a BSD license, the license on the  SDK is more restrictive
